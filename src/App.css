@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+body {
+  background-color: #A09ABC;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  background-color: #B6A6CA;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  color: #E1DEE9;
+}
+
+h2{
+  font-size: xx-large;
+  display: inline;
+}
+
+.m-img{
+  height: 500px;
+  width: 300px;
+}
+
+.m-body{
+  font-size: x-large;
+  text-align: ;
+}
+
+section{
+  display: inline;
+  width: 50%;
+}
+
+.div2{
+  display: flex;
+  display: inline;
+  width: 25%;
+}
